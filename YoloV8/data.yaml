@@ -1,0 +1,7 @@
+train:
+val: /Users/seanmetlitski/Desktop/objdetect/small_test/images
+test: /Users/seanmetlitski/Desktop/objdetect/small_test/images # test labels (optional)
+
+nc: 1
+
+names: ['Graph']
